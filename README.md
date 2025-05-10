@@ -10,7 +10,7 @@ The original dataset, stored in a table named `layoffs`, contains company layoff
 
 ---
 
-## 🛠Cleaning Steps
+## Cleaning Steps
 
 ### 1. Remove Duplicates
 - Duplicates were identified using `ROW_NUMBER()` over relevant columns.
@@ -32,6 +32,6 @@ The original dataset, stored in a table named `layoffs`, contains company layoff
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 This project was completed by following a [YouTube tutorial by Alex the Analyst]([https://www.youtube.com/watch?v=2lYZc2jJt2A](https://www.youtube.com/watch?v=OT1RErkfLNQ&t=10860s&ab_channel=AlexTheAnalyst)).
